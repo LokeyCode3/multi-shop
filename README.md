@@ -1,0 +1,6 @@
+College Canteen Management App (In Progress)
+I am building a full-stack College Canteen Management App to digitalize and simplify food ordering inside the campus. The app provides separate login systems for Students, Shop/Admin, and Super Admin. Students can browse canteen menus, place orders, track order status, and make online payments. Shop/Admin users can manage food items, update prices, accept or reject orders, and track daily sales. The Super Admin module is designed to approve canteen shops, manage shop permissions, and control platform-level settings such as adding, editing, or removing shops.
+
+The project focuses on solving real campus problems like long queues, manual order handling, and lack of transparency in order status. The system architecture is being designed to support multiple canteens under one platform with proper role-based access control and scalable database connections.
+
+This project is currently under active development. Core authentication and basic login flows are completed, while features such as Super Admin dashboard, shop approval workflow, order lifecycle management, and database integration are in progress. The goal is to make the system production-ready with a clean UI, secure authentication, and smooth real-time order updates.
